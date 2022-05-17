@@ -1,8 +1,6 @@
 import { mount } from "@cypress/react";
 
 import { Field } from "./Field";
-import "../index.css";
-import "./Field.css";
 
 describe("Field", () => {
   beforeEach(() => {
