@@ -1,0 +1,16 @@
+.field {
+  position: relative;
+}
+.field input {
+  padding-right: 1rem;
+  width: inherit;
+}
+.field button {
+  right: 0;
+  border: none;
+  background: none;
+  top: 0.2rem;
+  position: absolute;
+  z-index: 100;
+  cursor: pointer;
+}
